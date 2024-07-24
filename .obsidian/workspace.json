@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "b925a8b6b73e8417",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ec3294de947973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6639dc03a0eff5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e783a7bd8cb76695",
+    "type": "split",
+    "children": [
+      {
+        "id": "70fa0476f9ad9adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44cdc9048fff9b28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e0f10ca9ca134eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74eb6bc5b52c07b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52f2e1159e59f7b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e68e5f93f2ae398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a00731414482f77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dc0401eec807040",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Papers List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "854d9842ef9a42c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c57af28b8f6d2a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Papers List.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6639dc03a0eff5e9",
+  "lastOpenFiles": [
+    "Discussion/MBC-Arrow Towards Modular LLMs by Building and Reusing a Library of LoRAs.md",
+    "Papers/Towards-Modular-LLMs-by-Building-and-Reusing-a-Library-of-LoRAs.pdf",
+    "Papers List.md",
+    "Untitled.canvas",
+    "Papers/Towards Modular LLMs by Building_and_Reusing_a_Library_of_LORAs.pdf",
+    "Papers",
+    "Discussion"
+  ]
+}
